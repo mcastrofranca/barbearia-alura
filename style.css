@@ -9,13 +9,13 @@ body{
 header{
     background-color: #BBBBBB;
     padding: 20px 0;
-    overflow: hidden;
 }
 
 .caixa{
     position: relative;
     width: 940px;
     margin: 0 auto;
+    overflow: hidden;
 }
 
 nav{
