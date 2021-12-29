@@ -15,7 +15,6 @@ header{
     position: relative;
     width: 940px;
     margin: 0 auto;
-    overflow: hidden;
 }
 
 nav{
@@ -271,6 +270,7 @@ td, th{
     .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .produtos, .contato{
         width: auto;
         padding: 3em 0;
+        overflow: hidden;
     }
 
     h1{
